@@ -30,7 +30,7 @@
 - 对图像设定不同的量化表(图像质量 `quality=40:5:90` )进行压缩, 如下图所示
 - 对不同的压缩结果计算上述IQA参数
 
-![不同quality图像](https://github.com/yfor1008/image_quality_assessment/blob/master/src/quality_series.png)
+![不同quality图像](https://github.com/yfor1008/image_quality_assessment/raw/master/src/quality_series.png)
 
 
 
@@ -41,7 +41,7 @@
 - SSIM/ESSIM/FSIM等方法, 虽有变化, 但都比较小, 还会与图像质量反向变化
 - GMSD/MDSI等方法, 与图像质量同向变化, 但幅度不大
 
-![jpeg_IQA](https://github.com/yfor1008/image_quality_assessment/blob/master/src/jpeg_cmp.png)
+![jpeg_IQA](https://github.com/yfor1008/image_quality_assessment/raw/master/src/jpeg_cmp.png)
 
-![webp_IQA](https://github.com/yfor1008/image_quality_assessment/blob/master/src/webp_cmp.png)
+![webp_IQA](https://github.com/yfor1008/image_quality_assessment/raw/master/src/webp_cmp.png)
 
